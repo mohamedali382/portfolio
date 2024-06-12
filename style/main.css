@@ -532,7 +532,7 @@ align-items: center;
 .checkpoints:nth-child(even){
     border-right: 3px solid #e94848;
     padding-right: 3em;
-    transform: translateX(-49.76%);
+    transform: translateX(-49.6%);
 }
 .checkpoints:nth-child(odd)::before,
 .checkpoints:nth-child(even)::before {

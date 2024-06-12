@@ -494,6 +494,11 @@ align-items: center;
     
 }
 
+.section_three_pre h1
+{
+    color:#e94848;
+}
+
 .checkpoints {
     width: 45%;
     height: 15vh;

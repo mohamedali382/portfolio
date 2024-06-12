@@ -717,7 +717,7 @@ text-align: center;
     }
 
     .checkpoints:nth-child(odd){
-        border-left: 3px solid white;
+        
         padding-left: 3em;
         transform: translateX(50%);
     }

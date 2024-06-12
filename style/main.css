@@ -995,7 +995,12 @@ text-align: center;
     .form_section form {
         width: 90%;
     }
-
+    .section_three_pre{
+    height: 150vh;
+    }
+    .section_three_pre .checkpoints{
+        height: 20vh;
+    }
 
 }
 
